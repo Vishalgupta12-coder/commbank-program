@@ -13,7 +13,7 @@
 
 {
   "ConnectionStrings": {
-    "CommBank": "{CONNECTION_STRING}"
+    "CommBank": "{mongodb+srv://new_user1:<p9oKuL8CB7AulgIa>@cluster0.gccc21g.mongodb.net/?retryWrites=true&w=majority}"
   }
 }
 ```
